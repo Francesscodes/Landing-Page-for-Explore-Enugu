@@ -1,24 +1,26 @@
- Landing-Page-for-Explore-Enugu
-A beautiful, interactive landing page showcasing tourist destinations in Enugu, Nigeria. Features a 3D cube slider with stunning locations and an animated particle background.
+An interactive landing page showcasing tourist destinations in Enugu, Nigeria with a 3D cube slider and animated particle background.
 Features
 
-3D Cube Slider: Interactive swiper with cube transition effects showcasing popular Enugu destinations
-Animated Background: Dynamic particle system with colorful star animations
-Responsive Design: Fully optimized for desktop, tablet, and mobile devices
-Modern UI: Glassmorphism effects and smooth animations
-Tourist Destinations: Features 4 popular Enugu attractions:
+3D cube slider with auto-rotation
+Animated particle background
+Fully responsive design
+Showcases 4 popular destinations: Ngwo Pine Forest, Awhum Waterfall, Nike Lake Resort, and Ikirike Hill
 
-Ngwo Pine Forest
-Awhum Waterfall
-Nike Lake Resort
-Ikirike Hill
+Tech Stack
+HTML5, CSS3, JavaScript, Swiper.js, tsParticles, Ionicons
 
-Technologies Used
-HTML5: Semantic markup
-CSS3: Custom styling with modern features (backdrop-filter, grid, flexbox)
-JavaScript: Interactive functionality
-Swiper.js: 3D cube slider implementation
-tsParticles: Animated particle background
-Ionicons: Star rating icons
-Bootstrap 4.5: Grid system support
+Getting Started
+Clone and open index.html in your browser:
+git clone https://github.com/yourusername/explore-enugu.git
+cd explore-enugu
+open index.html
 
+No build tools required - it's a static website.
+Customization
+
+Colors: Edit the gold accent #c9a506ff in style.css
+Slider speed: Modify speed and autoplay.delay in script.js
+Images: Replace images in the images/ folder and update paths in index.html
+
+License
+MIT License
